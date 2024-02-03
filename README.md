@@ -1,2 +1,2 @@
-# Dad-Jokes-Chrome-Extension
-You click on this google chrome extension to get a random Joke every time 😂
+# VocabPro
+Double click on any word to get it's meaning and pronunciation.
